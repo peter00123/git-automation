@@ -11,3 +11,6 @@ REM Push changes to the remote repository
 git push origin main
 
 echo Project has been added to GitHub successfully.
+
+REM clossing up
+e
