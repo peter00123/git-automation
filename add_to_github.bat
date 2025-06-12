@@ -1,6 +1,5 @@
 @echo off
-REM Change to the project directory
-cd /d "%~dp0"
+
 
 REM Stage all changes
 git add .
