@@ -1,5 +1,7 @@
 # Python Batch Git Project
 
+##This project can be used to create git-hub activity in a single click.
+
 This project consists of a Python script that retrieves the current date and time and saves it to a text file. It also includes batch files to run the script and to add the project to a GitHub repository.
 
 ## Project Structure
