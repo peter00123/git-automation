@@ -27,6 +27,8 @@ python-batch-git-project
 
 1. To save the current date and time, run `run_script.bat`.
 2. To add the project to GitHub, run `add_to_github.bat`. Ensure you have Git installed and configured on your system.
+3. once the repostiory is initializes and manually run once, then the bat file can be used to be acutomate it.
+4. it is always esay to create a shortcut for main bat file for easy usage.
 
 ## Requirements
 
